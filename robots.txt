@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miplsolns.com/sitemap.xml
